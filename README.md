@@ -11,7 +11,6 @@ This repository contains data files for analyzing sales data and creating an int
 - [Dashboard](#dashboard)
 - [Forecasting](#forecasting)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
